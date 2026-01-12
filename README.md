@@ -1,2 +1,4 @@
 # TheFreedomMan21
-This is just sample repo for demo purposes
+
+This a demo file for my class in CSE 220
+
